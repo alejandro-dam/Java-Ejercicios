@@ -77,6 +77,7 @@ public class NewClass {
         System.out.println("Tiene " + cifraCount + " cifras");*/
         
         
+        System.out.println(args[0]);
       
         
         System.out.println("Introduce un número");
