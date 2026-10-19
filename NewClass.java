@@ -90,7 +90,7 @@ public class NewClass {
             cifra = num % 10;
             num = num / 10;
             
-            System.out.println(cifra);
+            System.out.println("Esta es la " + cifra);
             
             
         }
